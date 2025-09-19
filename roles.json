@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "vrchat_username": "Test",
+      "roles": [
+        "VIP",
+        "Staff",
+        "Dancer",
+        "Host"
+      ]
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-09-19T18:05:11.288Z",
+    "app_version": "0.1.0",
+    "total_users": 1
+  }
+}
