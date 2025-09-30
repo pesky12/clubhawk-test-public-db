@@ -1,17 +1,18 @@
 {
   "users": [
     {
-      "vrchat_username": "Test",
+      "vrchat_username": "Pesky12",
       "roles": [
         "VIP",
         "Staff",
         "Dancer",
-        "Host"
+        "Host",
+        "Club Manager"
       ]
     }
   ],
   "metadata": {
-    "generated_at": "2025-09-19T18:39:47.112Z",
+    "generated_at": "2025-09-30T06:34:55.111Z",
     "app_version": "0.1.0",
     "total_users": 1
   }
