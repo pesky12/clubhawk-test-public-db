@@ -1,2 +1,7 @@
-Name,Club Manager,Dancer,Host,Staff,VIP
-Pesky12,TRUE,TRUE,TRUE,TRUE,TRUE
+Name,Club Manager,Staff,Tier 2 Supporter
+boxofsquid,FALSE,FALSE,TRUE
+_maltz,FALSE,FALSE,TRUE
+einfach_fabian,FALSE,FALSE,TRUE
+atemandrew,FALSE,FALSE,TRUE
+unfoundbug,FALSE,FALSE,TRUE
+Pesky12,TRUE,TRUE,FALSE
